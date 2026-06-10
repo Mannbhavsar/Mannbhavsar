@@ -8,8 +8,7 @@ Email Me 👉 ✉️ **mannrbhavsar@gmail.com** For Collaboration/Project or Any
 I invite you to connect with me on Instagram, Facebook, and X (formerly Twitter) to stay updated with my latest content and projects.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mann Bhavsar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mann._.bhavsar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mann Bhavsar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mann Bhavsar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannrbhavsar@gmail.com) 
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mann Bhavsar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mann._.bhavsar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mann Bhavsar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mann Bhavsar)
 <!-- Snake Game Repo View -->
 
 <div align="center">
